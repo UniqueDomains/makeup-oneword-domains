@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MAKEUP one-word domains still available to buy.
 
-This dataset contains 4,773 .MAKEUP one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,768 .MAKEUP one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MAKEUP one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=makeup-oneword-domains&utm_content=description.top) (4,772) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.MAKEUP one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.makeup        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.makeup      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.makeup        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.makeup      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.makeup  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.makeup      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.makeup  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.MAKEUP one word domai
 | abatic.makeup     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.makeup    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.makeup   | available | 50       | 1%     | 8      |           |         |         |
-| abc.makeup        | available | 102      | 41%    | 3      |           |         |         |
+| abc.makeup        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.makeup  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.makeup  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.makeup | available | 56       | 1%     | 10     |           |         |         |
