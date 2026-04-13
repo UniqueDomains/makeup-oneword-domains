@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C656%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C657%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C656%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .makeup one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,656 rows · **Live catalog:** 9,656 domains
+**Public extract:** 9,657 rows · **Live catalog:** 9,656 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/makeup`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MAKEUP one-word domai
 
 ### Files
 
-- `makeup.csv` — public CSV extract (9,656 rows)
-- `makeup.json` — public JSON extract (9,656 rows)
+- `makeup.csv` — public CSV extract (9,657 rows)
+- `makeup.json` — public JSON extract (9,657 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,25 +65,25 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | block.makeup      | available | $19.98    | —             | 68             | 98     | 5      | namecheap                                    |
-| woo.makeup        | resell    | —         | —             | 67             | 82     | 3      | Porkbun, LLC                                 |
+| drop.makeup       | resell    | $1.99     | $20.99        | 86             | 38     | 4      | Spaceship, Inc.                              |
 | converse.makeup   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                                     |
 | seventeen.makeup  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com                                     |
-| enjoy.makeup      | resell    | —         | —             | 88             | 66     | 5      | Spaceship, Inc.                              |
+| woo.makeup        | resell    | —         | —             | 67             | 82     | 3      | Porkbun, LLC                                 |
 | nationwide.makeup | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                                     |
 | athletics.makeup  | available | $19.98    | —             | 69             | 52     | 9      | namecheap                                    |
-| bot.makeup        | resell    | —         | —             | 98             | 53     | 3      | Spaceship, Inc.                              |
+| enjoy.makeup      | resell    | —         | —             | 88             | 66     | 5      | Spaceship, Inc.                              |
 | easy.makeup       | premium   | $2,500    | $20.99        | 128            | 62     | 4      | name.com                                     |
 | genius.makeup     | available | $1.99     | $20.99        | 98             | 45     | 6      | name.com                                     |
-| air.makeup        | resell    | —         | —             | 84             | 51     | 3      | Spaceship, Inc.                              |
+| bot.makeup        | resell    | —         | —             | 98             | 53     | 3      | Spaceship, Inc.                              |
 | power.makeup      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap                                    |
 | creator.makeup    | available | $1.99     | $20.99        | 70             | 45     | 7      | name.com                                     |
-| human.makeup      | resell    | —         | —             | 74             | 51     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| free.makeup       | premium   | $2,500    | $20.99        | 88             | 59     | 4      | name.com                                     |
-| forge.makeup      | available | $1.99     | $20.99        | 62             | 45     | 5      | name.com                                     |
-| root.makeup       | resell    | —         | —             | 64             | 49     | 4      | Spaceship, Inc.                              |
+| air.makeup        | resell    | —         | —             | 84             | 51     | 3      | Spaceship, Inc.                              |
 | cloud.makeup      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
+| forge.makeup      | available | $1.99     | $20.99        | 62             | 44     | 5      | name.com                                     |
+| human.makeup      | resell    | —         | —             | 74             | 51     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ace.makeup        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                                     |
 | wizard.makeup     | available | $1.99     | $20.99        | 118            | 43     | 6      | name.com                                     |
-| everything.makeup | resell    | —         | —             | 64             | 47     | 10     | Dynadot LLC                                  |
+| root.makeup       | resell    | —         | —             | 64             | 49     | 4      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,656-row public sample | 9,656 live domains                               |
+| 9,657-row public sample | 9,656 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
