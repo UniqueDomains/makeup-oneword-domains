@@ -1,22 +1,22 @@
-# Available .MAKEUP One-Word Domains (9,656)
+# Available .MAKEUP One-Word Domains (12,136)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C657%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C656%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C136%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .makeup one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .makeup one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,136 domains** on the canonical page below.
 
-**Public extract:** 9,657 rows · **Live catalog:** 9,656 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,136 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/makeup`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MAKEUP one-word domai
 
 ### Files
 
-- `makeup.csv` — public CSV extract (9,657 rows)
-- `makeup.json` — public JSON extract (9,657 rows)
+- `makeup.csv` — public CSV extract (1,000 rows)
+- `makeup.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| block.makeup      | available | $19.98    | —             | 68             | 98     | 5      | namecheap                                    |
-| drop.makeup       | resell    | $1.99     | $20.99        | 86             | 38     | 4      | Spaceship, Inc.                              |
-| converse.makeup   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                                     |
-| seventeen.makeup  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com                                     |
-| woo.makeup        | resell    | —         | —             | 67             | 82     | 3      | Porkbun, LLC                                 |
-| nationwide.makeup | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                                     |
-| athletics.makeup  | available | $19.98    | —             | 69             | 52     | 9      | namecheap                                    |
-| enjoy.makeup      | resell    | —         | —             | 88             | 66     | 5      | Spaceship, Inc.                              |
-| easy.makeup       | premium   | $2,500    | $20.99        | 128            | 62     | 4      | name.com                                     |
-| genius.makeup     | available | $1.99     | $20.99        | 98             | 45     | 6      | name.com                                     |
-| bot.makeup        | resell    | —         | —             | 98             | 53     | 3      | Spaceship, Inc.                              |
-| power.makeup      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap                                    |
-| creator.makeup    | available | $1.99     | $20.99        | 70             | 45     | 7      | name.com                                     |
-| air.makeup        | resell    | —         | —             | 84             | 51     | 3      | Spaceship, Inc.                              |
-| cloud.makeup      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
-| forge.makeup      | available | $1.99     | $20.99        | 62             | 44     | 5      | name.com                                     |
-| human.makeup      | resell    | —         | —             | 74             | 51     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ace.makeup        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                                     |
-| wizard.makeup     | available | $1.99     | $20.99        | 118            | 43     | 6      | name.com                                     |
-| root.makeup       | resell    | —         | —             | 64             | 49     | 4      | Spaceship, Inc.                              |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| winners.makeup       | available | $1.65     | $15.75        | 60             | 81     | 7      | namesilo                                     |
+| coins.makeup         | resell    | —         | —             | 56             | 41     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| hotels.makeup        | premium   | $812.50   | —             | 64             | 82     | 6      | name.com                                     |
+| keepthechange.makeup | available | $1.99     | —             | 46             | 59     | 15     | name.com                                     |
+| styling.makeup       | resell    | —         | —             | 78             | 11     | 7      | 101domain GRS Limited                        |
+| online.makeup        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com                                     |
+| agents.makeup        | available | $1.99     | —             | 56             | 50     | 6      | name.com                                     |
+| travelers.makeup     | premium   | $2,500    | —             | 58             | 61     | 9      | name.com                                     |
+| whynot.makeup        | available | $1.99     | —             | 74             | 39     | 7      | name.com                                     |
+| jobs.makeup          | premium   | $2,500    | —             | 79             | 42     | 4      | name.com                                     |
+| partners.makeup      | available | $1.99     | —             | 61             | 32     | 8      | name.com                                     |
+| justin.makeup        | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                     |
+| heroes.makeup        | available | $1.99     | —             | 68             | 29     | 6      | name.com                                     |
+| homes.makeup         | premium   | $812.50   | —             | 86             | 34     | 5      | name.com                                     |
+| blocks.makeup        | available | $1.99     | —             | 53             | 29     | 6      | name.com                                     |
+| tickets.makeup       | premium   | $2,500    | —             | 64             | 34     | 7      | name.com                                     |
+| forms.makeup         | available | $1.99     | —             | 54             | 28     | 5      | name.com                                     |
+| trends.makeup        | premium   | $2,500    | —             | 60             | 32     | 6      | name.com                                     |
+| systems.makeup       | available | $1.99     | —             | 46             | 27     | 7      | name.com                                     |
+| solutions.makeup     | premium   | $2,500    | —             | 56             | 31     | 9      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,657-row public sample | 9,656 live domains                               |
+| 1,000-row public sample | 12,136 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
