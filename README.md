@@ -1,10 +1,10 @@
-# Available .MAKEUP One-Word Domains (12,633)
+# Available .MAKEUP One-Word Domains (12,632)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C633%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C632%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .makeup one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,633 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,632 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,633 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,632 domains · **Median ask:** $120.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/makeup`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| Acup.makeup          | available | $19.98    | —             | 80             | 5      | 5      | namecheap                                    |
+| finals.makeup        | available | $1.65     | $15.75        | 80             | 7      | 6      | namesilo                                     |
+| useit.makeup         | available | $1.99     | —             | 94             | 7      | 6      | name.com                                     |
+| dogsit.makeup        | available | $1.99     | —             | 96             | 2      | 6      | name.com                                     |
+| makeit.makeup        | available | $1.99     | —             | 82             | 22     | 7      | name.com                                     |
+| watches.makeup       | available | $1.65     | $15.75        | 84             | 19     | 7      | namesilo                                     |
+| dogsick.makeup       | available | $1.99     | —             | 90             | 1      | 7      | name.com                                     |
+| getlife.makeup       | available | $1.99     | —             | 80             | 5      | 8      | name.com                                     |
+| presents.makeup      | available | $1.99     | —             | 80             | 9      | 8      | name.com                                     |
 | winners.makeup       | available | $1.65     | $15.75        | 60             | 81     | 7      | namesilo                                     |
 | coins.makeup         | resell    | —         | —             | 56             | 41     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | hotels.makeup        | premium   | $812.50   | —             | 64             | 82     | 6      | name.com                                     |
@@ -75,15 +84,6 @@ print(df.head())
 | whynot.makeup        | available | $1.99     | —             | 74             | 39     | 7      | name.com                                     |
 | justin.makeup        | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                     |
 | partners.makeup      | available | $1.99     | —             | 61             | 32     | 8      | name.com                                     |
-| homes.makeup         | premium   | $812.50   | —             | 86             | 34     | 5      | name.com                                     |
-| blocks.makeup        | available | $1.99     | —             | 53             | 29     | 6      | name.com                                     |
-| tickets.makeup       | premium   | $2,500    | —             | 64             | 34     | 7      | name.com                                     |
-| forms.makeup         | available | $1.99     | —             | 54             | 28     | 5      | name.com                                     |
-| trends.makeup        | premium   | $2,500    | —             | 60             | 32     | 6      | name.com                                     |
-| systems.makeup       | available | $1.99     | —             | 46             | 27     | 7      | name.com                                     |
-| solutions.makeup     | premium   | $2,500    | —             | 56             | 31     | 9      | name.com                                     |
-| sites.makeup         | available | $1.99     | —             | 53             | 26     | 5      | name.com                                     |
-| quotes.makeup        | premium   | $812.50   | —             | 58             | 29     | 6      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,633 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,632 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .makeup domains. That gives it a narrow, category-specific profile: the extension instantly signals beauty, cosmetics, or makeup relevance, while the word itself does most of the branding work. Names such as jewels.makeup and matcha.makeup lean descriptive and memorable, while WiFi.makeup or popup.makeup feel more unconventional and campaign-driven. When comparing these domains, focus on whether the word fits a beauty use case naturally, how easy it is to say and spell, and whether the asking price is justified by clarity and recall. The median ask across this set is 120.94, which helps frame budget expectations.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .makeup domains in a beauty-specific TLD
+- Median ask across this set is 120.94
+- Favor clear, memorable words with beauty relevance
+- Check for trademark risk in branded-looking terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
