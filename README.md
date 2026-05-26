@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .makeup one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,633 domains · **Median ask:** $120.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/makeup`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | finals.makeup        | available | $1.65     | $15.75        | 80             | 7      | 6      | namesilo                                     |
 | useit.makeup         | available | $1.99     | —             | 94             | 7      | 6      | name.com                                     |
 | dogsit.makeup        | available | $1.99     | —             | 96             | 2      | 6      | name.com                                     |
-| makeit.makeup        | available | $1.99     | —             | 82             | 22     | 7      | name.com                                     |
+| makeit.makeup        | available | $1.99     | —             | 82             | 21     | 7      | name.com                                     |
 | watches.makeup       | available | $1.65     | $15.75        | 84             | 19     | 7      | namesilo                                     |
 | dogsick.makeup       | available | $1.99     | —             | 90             | 1      | 7      | name.com                                     |
 | getlife.makeup       | available | $1.99     | —             | 80             | 5      | 8      | name.com                                     |
@@ -81,7 +81,7 @@ print(df.head())
 | online.makeup        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com                                     |
 | agents.makeup        | available | $1.99     | —             | 56             | 50     | 6      | name.com                                     |
 | jobs.makeup          | premium   | $2,500    | —             | 79             | 42     | 4      | name.com                                     |
-| whynot.makeup        | available | $1.99     | —             | 74             | 39     | 7      | name.com                                     |
+| whynot.makeup        | available | $1.99     | —             | 74             | 44     | 7      | name.com                                     |
 | justin.makeup        | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                     |
 | partners.makeup      | available | $1.99     | —             | 61             | 32     | 8      | name.com                                     |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
