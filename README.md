@@ -83,7 +83,7 @@ print(df.head())
 | jobs.makeup          | premium   | $2,500    | —             | 79             | 42     | 4      | name.com                                     |
 | whynot.makeup        | available | $1.99     | —             | 74             | 44     | 7      | name.com                                     |
 | justin.makeup        | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                     |
-| partners.makeup      | available | $1.99     | —             | 61             | 32     | 8      | name.com                                     |
+| partners.makeup      | available | $1.99     | —             | 61             | 31     | 8      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
