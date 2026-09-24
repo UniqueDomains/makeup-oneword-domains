@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .makeup one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,229 domains · **Median ask:** $83.69 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/makeup`
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | motion.makeup | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
 | fly.makeup    | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 | egg.makeup    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| gay.makeup    | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
+| job.makeup    | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
 | eid.makeup    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
 | map.makeup    | premium   | $2,600    | $15.73        | high           | medium | 3      | namecheap       |
 | had.makeup    | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAKEUP One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
